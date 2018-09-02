@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\class_practic\class_practic\bin\Debug\class_practic.exe.config
+C:\Users\anuar\source\repos\class_practic\class_practic\bin\Debug\class_practic.exe
+C:\Users\anuar\source\repos\class_practic\class_practic\bin\Debug\class_practic.pdb
+C:\Users\anuar\source\repos\class_practic\class_practic\obj\Debug\class_practic.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\class_practic\class_practic\obj\Debug\class_practic.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\class_practic\class_practic\obj\Debug\class_practic.exe
+C:\Users\anuar\source\repos\class_practic\class_practic\obj\Debug\class_practic.pdb
